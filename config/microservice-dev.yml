@@ -1,4 +1,6 @@
 # DATASOURCE (DataSourceAutoConfiguration & DataSourceProperties)
+application:
+  name:  zyt #指定服务名
 spring:
   datasource:
     dynamic:
